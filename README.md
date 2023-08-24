@@ -14,6 +14,20 @@
 - 📫 How to reach me **puneetmishrajpr17@gmail.com**
 
 - ⚡ Fun fact **I am funny.**
+  
+- 👨‍💻 2nd Year B.Tech IT Student | Passionate about Coding & Tech ⚡️
+
+- 🚀 Striving to be a Software Architect | Transforming Lines of Code into Innovation 🌟
+
+- 🔍 Solving Complex Problems with C++ & Python | Embracing the Art of Algorithms
+
+- 💡 Curious Mind | Tech Enthusiast | Future-Driven Learner 🌌
+
+- 🌐 Exploring the Digital Universe, One Bug at a Time | Debugger by Day, Dreamer by Night ✨
+
+- 🌈 Open-Source Advocate | Contributing to Shaping the Next Tech Era 🌐
+
+- 📚 Learning Today, Leading Tomorrow | On a Journey to Code Greatness 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
